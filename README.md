@@ -73,9 +73,10 @@ Future simulations may explore:
 
 ---
 
-## 🧠 Author & Credits
 
-Project by Daivarsi
-Dataset created by GPT-4 and script guided by neuroscience literature.
+## 🚀 Author
+Daivarsi Malik  
+[Instagram: @cognitive.engineer](https://instagram.com/cognitive.engineer)  
+PhD-track Biomedical Engineer | Applied AI | Cognitive Neuroscience Modeling  
 
 > This is an educational project. It is not intended for clinical or diagnostic use.
